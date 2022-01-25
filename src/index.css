@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  width: 100%;
+  background-color: cadetblue;
+  
+}
+
+.chat1 {
+  text-align: center;
+  margin: 1%;
+  padding: 5px;
+}
+
+.chat2 {
+  border: 2px solid burlywood;
+  width: 400px;
+  background-color: chartreuse;
+  text-align: left;
+  display: flex;
+  margin: 1%;
+  padding: 5px;
+}
+
+h3 {
+  color: rgb(255, 0, 76);
+}
+
+h4 {
+  padding-left: 10px;
+}
